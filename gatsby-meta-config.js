@@ -1,8 +1,8 @@
 module.exports = {
-  title: `JaeMeDev`,
+  title: `jaeme.dev`,
   description: `재미커플 이재준의 개발스토리`,
   language: `ko`,
-  siteUrl: `https://jaeme.netlify.app`,
+  siteUrl: `https://jaeme.dev`,
   ogImage: `/og-image.png`,
   comments: {
     utterances: {
