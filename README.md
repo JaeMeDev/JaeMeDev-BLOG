@@ -14,4 +14,4 @@
 
 ## 접속
 
-[JaeMeDev](https://jaeme.netlify.app/)
+[JaeMeDev](https://jaeme.dev)
