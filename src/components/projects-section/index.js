@@ -5,7 +5,6 @@ import Image from '../image';
 import './style.scss';
 
 const ProjectsSection = ({ projects }) => {
-  if (!projects || projects.length < 2) return null;
   return (
     <div className="projects-section-wrapper">
       <div className="projects-section">
@@ -16,25 +15,38 @@ const ProjectsSection = ({ projects }) => {
               <div className="head">
                 {project.title}&nbsp;&nbsp;
                 {project.links && (
-                  <IconButtonBar links={project.links} style={{ color: '#a8a8a8', fontSize: 24 }} />
+                  <IconButtonBar
+                    links={project.links}
+                    style={{
+                      color: '#a8a8a8',
+                      fontSize: '24px',
+                    }}
+                  />
                 )}
+                <div className="headBar">
+                  {project.techStack && (
+                    <div className="tech-stack">
+                      {project.techStack.map((tech, index) => (
+                        <div key={index} className="tech">
+                          {tech}
+                        </div>
+                      ))}
+                    </div>
+                  )}
+                  <div className="date">{project.date}</div>
+                </div>
               </div>
               <div className="body">
-                <Image
-                  className="thumbnail"
-                  src={project.thumbnailUrl}
-                  alt={project.thumbnailUrl}
-                />
-                {project.techStack && (
-                  <div className="tech-stack">
-                    {project.techStack.map((tech, index) => (
-                      <div key={index} className="tech">
-                        {tech}
-                      </div>
-                    ))}
-                  </div>
-                )}
-                <div className="description">{project.description}</div>
+                <div className="thumbnail-wrapper">
+                  <Image
+                    className="thumbnail"
+                    src={project.thumbnailUrl}
+                    alt={project.thumbnailUrl}
+                  />
+                </div>
+                <div className="content">
+                  <div className="description">{project.description}</div>
+                </div>
               </div>
             </div>
           ),
