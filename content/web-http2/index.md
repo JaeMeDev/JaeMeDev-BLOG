@@ -1,5 +1,5 @@
 ---
-emoji: 🦋
+emoji: ⭐️
 title: (HTTP 시리즈)2. URL 과 웹 브라우저 요청 흐름
 date: '2021-11-25 14:50:00'
 author: JaeMeDev
