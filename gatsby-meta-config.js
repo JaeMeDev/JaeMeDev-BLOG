@@ -15,7 +15,7 @@ module.exports = {
     nickname: 'JaeMeDev',
     bio: {
       role: `개발자`,
-      description: ['언제나 새로운', '힙하면서 재밌는', '호기심이 많은'],
+      description: ['언제나 새로운', '창의적인', '상상력이 풍부한'],
       thumbnail: 'my.jpg',
     },
     social: {
