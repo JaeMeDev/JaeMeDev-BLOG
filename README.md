@@ -10,7 +10,11 @@
 
 # JaeMeDev
 
-이 블로그는 Gatsby.js를 이용하여 개발되었으며 [zoomkoding-gatsby-blog](https://github.com/zoomKoding/zoomkoding-gatsby-blog)테마를 기반으로 커스텀 되었습니다.
+이 블로그는 Gatsby.js를 이용하여 개발되었으며 [zoomkoding-gatsby-blog](https://github.com/zoomKoding/zoomkoding-gatsby-blog)테마를 기반으로 만들어졌습니다.
+
+## 블로그안에는?
+
+업무에서 마주하게 되는 이슈와 여러사람에게 전파하고자 하는 내용을 전달하고자 합니다! 지켜봐주세요!
 
 ## 접속
 
