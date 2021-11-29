@@ -1,5 +1,5 @@
 ---
-emoji: 🍄
+emoji: 🌻
 title: (HTTP 시리즈)4. HTTP 메서드
 date: '2021-11-29 12:47:00'
 author: JaeMeDev
