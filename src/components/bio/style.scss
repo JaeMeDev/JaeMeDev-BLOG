@@ -100,13 +100,16 @@
     }
   }
 
-  .thumbnail {
+  .thumbnail-wrapper {
     display: none;
-    width: 250px;
-    border-radius: 50%;
 
     @include md {
       display: block;
     }
+  }
+
+  .thumbnail-image{
+    width: 250px;
+    border-radius: 50%;
   }
 }
