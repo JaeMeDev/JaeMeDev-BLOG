@@ -1,6 +1,6 @@
 ---
 emoji: 🍄
-title: (HTTP 시리즈)3. HTTP 기본
+title: 3. HTTP 기본
 date: '2021-11-25 16:30:00'
 author: JaeMeDev
 tags: http web

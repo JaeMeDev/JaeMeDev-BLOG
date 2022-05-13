@@ -1,6 +1,6 @@
 ---
 emoji: 🦋
-title: (HTTP 시리즈)1. 인터넷 네트워크란?
+title: 1. 인터넷 네트워크란?
 date: '2021-11-25 11:30:00'
 author: JaeMeDev
 tags: http web

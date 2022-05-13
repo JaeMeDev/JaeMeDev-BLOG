@@ -1,6 +1,6 @@
 ---
 emoji: 🍭
-title: (HTTP 시리즈)6. HTTP 헤더(일반헤더)
+title: 6. HTTP 헤더(일반헤더)
 date: '2021-11-29 15:50:00'
 author: JaeMeDev
 tags: http web

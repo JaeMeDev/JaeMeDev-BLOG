@@ -1,6 +1,6 @@
 ---
 emoji: 🍭
-title: (HTTP 시리즈)5. HTTP 상태코드
+title: 5. HTTP 상태코드
 date: '2021-11-29 14:30:00'
 author: JaeMeDev
 tags: http web
