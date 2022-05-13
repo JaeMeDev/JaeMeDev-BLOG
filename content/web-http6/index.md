@@ -11,7 +11,7 @@ categories: http
 
 ## HTTP 헤더
 
-먼저 `HTTP 헤더`는 이런식으로 생겼다.
+`HTTP 헤더`는 이런식으로 생겼다.
 
 ![header](img/header.png)
 
@@ -49,14 +49,14 @@ RFC723x 의 변화
 
 ## HTTP 표현 헤더
 
-표현헤더는 전송과 응답 둘다 사용되며 이렇게 이런식으로 존재한다.
+표현헤더는 전송과 응답 둘 다 사용된다.
 
 - Content-Type : 표현 데이터의 형식
 - Content-Encoding : 표현데이터의 압축방식
 - Content-Language : 표현 데이터의 자연 언어
 - Content-Length : 표현 데이터의 길이
 
-첫번째로 알아볼 것은 `Content-Type`이다. `Content-Type`은 표현 데이터의 형식을 설명한다.
+첫 번째로 알아볼 것은 `Content-Type`이다. `Content-Type`은 표현 데이터의 형식을 설명한다.
 - 미디어 타입, 문자 인코딩
 - 예)
   - text/html; charset=utf-8
@@ -64,7 +64,7 @@ RFC723x 의 변화
   - image/png
   
 
-두번째로 알아볼 것은 `Content-Encoding`이다. `Content-Encoding`은 표현 데이터 인코딩이다.
+두 번째로 알아볼 것은 `Content-Encoding`이다. `Content-Encoding`은 표현 데이터 인코딩이다.
 - 표현 데이터를 압축하기 위해 사용
 - 데이터를 전달하는 곳에서 압축 후 인코딩 헤더 추가
 - 데이터를 읽는 쪽에서 인코딩 헤더의 정보로 압축 해제
@@ -73,14 +73,14 @@ RFC723x 의 변화
   - deflate
   - identity
   
-세번째로 알아볼 것은 `Content-Language`이다. `Content-Language`는 표현 데이터의 자연 언어를 표현한다.
+세 번째로 알아볼 것은 `Content-Language`이다. `Content-Language`는 표현 데이터의 자연 언어를 표현한다.
 - 표현 데이터의 자연 언어를 표현
 - 예)
   - ko
   - en
   - en-US
 
-네번째로 알아볼 것은 `Content-Length`이다. `Content-Length`는 표현 데이터의 길이이다.
+네 번째로 알아볼 것은 `Content-Length`이다. `Content-Length`는 표현 데이터의 길이이다.
 - 바이트 단위
 - Transfer-Encoding(전송 코딩)을 사용하면 Content-Length 를 사용하면 안된다.
 
@@ -109,7 +109,7 @@ RFC723x 의 변화
 
 ## 일반 정보
 
-일반정도는 이러한 것들이 있으며 한번씩 확인해보면 된다.
+일반 정보는 이러한 것들이 있으며 한번씩 확인해보면 된다.
 
 ***From***
 
@@ -208,9 +208,6 @@ RFC723x 의 변화
 
 ## 🌜 마무리
 
-이번 포스팅을 마무리로 HTTP 에 대해서 살펴보았다. 여기서 안다룬 내용은 크게 `쿠키(Cookie)`와 `캐시(Cache)`가 있는데
-포스팅이 길어질 것 같아 해당 내용은 다른 포스팅으로 따로 다뤄보도록 하겠다. HTTP 시리즈를 통해 `HTTP`에 대해 열심히 알아보았다.
-
-다음 포스팅은 어떤 것을 할지 모르지만 많은 관심 부탁드린다.
+전반적인 HTTP 에 대해서 살펴보았다. 
 
 <br/>
