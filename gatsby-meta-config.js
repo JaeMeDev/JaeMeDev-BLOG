@@ -16,7 +16,7 @@ module.exports = {
     bio: {
       role: `개발자`,
       description: ['언제나 새로운', '창의적인', '상상력이 풍부한'],
-      thumbnail: 'couple.png',
+      thumbnail: 'my.png',
     },
     social: {
       github: `https://github.com/JaeMeDev`,
