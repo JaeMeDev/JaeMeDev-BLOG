@@ -1,5 +1,5 @@
 ---
-emoji: 🥲
+emoji: 🧤
 title: 인프런 심야FE 후기
 date: '2022-06-18 00:00:00'
 author: JaeMeDev
