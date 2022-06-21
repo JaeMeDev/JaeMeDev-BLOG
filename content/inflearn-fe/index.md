@@ -7,7 +7,7 @@ tags: 컨퍼런스
 categories: 컨퍼런스
 ---
 
-![inflearn](./img/inflearn.png)
+![inflearn](img/inflearn.png)
 
 ## 인프런 심야 FE에 다녀왔다
 
@@ -23,7 +23,7 @@ categories: 컨퍼런스
 
 <br>
 
-![message](./img/message.png)
+![message](img/message.png)
 
 ## 인프런에 도착
 
@@ -31,7 +31,7 @@ categories: 컨퍼런스
 
 <br>
 
-![message](./img/uspace.png)
+![message](img/uspace.png)
 
 <br>
 
@@ -47,7 +47,7 @@ categories: 컨퍼런스
 
 <br>
 
-![gift](./img/gift.png)
+![gift](img/gift.png)
 
 <br>
 
@@ -122,7 +122,7 @@ categories: 컨퍼런스
 
 끝으로 인프런에서 나눠준 티를 입고 회사에 출근하면 어떨지 관종 같은 생각을 하게 되었다.
 
-![tshirt](./img/tshirt.png)
+![tshirt](img/tshirt.png)
 
 뒤에는 프론트엔드라고 적혀있는 게 맘에 드는데 앞에 인프런 마크가 있어서 입고가면 다른 동료들이 궁금해할 것 같다.🤣
 
