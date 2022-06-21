@@ -83,8 +83,6 @@ URL(Uniform Resource Identifier)`이라는 단어를 한 번쯤 들어봤을 것
 - 서버에 전송하는 정보는 아니다.
 - 같은 페이지에서 이동을 할때 주로 활용된다. 
 
-<br/>
-
 ## 웹 브라우저 요청 흐름
 
 이번 챕터에서 가장 중요한 것은 이 웹브라우저의 요청 흐름이다. 순서대로 살펴보자.
@@ -113,8 +111,6 @@ URL(Uniform Resource Identifier)`이라는 단어를 한 번쯤 들어봤을 것
 7. 웹 브라우저는 응답 패킷을 받아 해석하고 HTML 렌더링을 시킨다.
 
 ![response](img/response.png)
-
-<br/>
 
 ## 🌜 마무리
 
