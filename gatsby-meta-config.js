@@ -1,6 +1,6 @@
 module.exports = {
   title: `jaeme.dev`,
-  description: `재미커플 이재준의 개발스토리`,
+  description: `프론트엔드 개발자 이재준의 재미있는 개발스토리`,
   language: `ko`,
   siteUrl: `https://jaeme.dev`,
   ogImage: `/og-image.png`,
@@ -16,7 +16,7 @@ module.exports = {
     bio: {
       role: `개발자`,
       description: ['언제나 새로운', '창의적인', '상상력이 풍부한'],
-      thumbnail: 'my.png',
+      thumbnail: 'my_emoji.png',
     },
     social: {
       github: `https://github.com/JaeMeDev`,
