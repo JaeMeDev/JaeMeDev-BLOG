@@ -9,7 +9,7 @@ categories: http
 
 ![http](img/http.png)
 
-## URL
+## 🧩 URL
 
 URL(Uniform Resource Identifier)`이라는 단어는 모두 한 번쯤 들어봤을 것입니다. `URL`이란 웹을 뒷받침하는 주소체계입니다.
 
@@ -21,14 +21,14 @@ URL(Uniform Resource Identifier)`이라는 단어는 모두 한 번쯤 들어봤
 
 세 단어의 뜻에 대해 자세히 알아보겠습니다.
 
-### URI 의 뜻
+### 🎯 URI 의 뜻
 - Uniform : 리소스를 식별하는 통일된 방식
 - Resource : 자원, URI 로 식별할 수 있는 모든 것
 - Identifier : 다른 항목과 구분하는데 필요한 정보
 - URL : Uniform Resource Locator
 - URN : Uniform Resource Name
 
-### URL 과 URN
+### 🎯 URL 과 URN
 - URL : Locator 로 리소스가 있는 위치를 지정한다.
 - URN : NAME 으로 리소스에 이름을 부여한다.
 - 위치는 변할 수 있지만, 이름은 변하지 않는다.
@@ -47,39 +47,39 @@ URL(Uniform Resource Identifier)`이라는 단어는 모두 한 번쯤 들어봤
 
 `scheme://[userinfo@]host[:port][?query][#fragment]`
 
-### scheme
+### 🎯 scheme
 - 주로 프로토콜 사용
 - 프로토콜 : 어떤 방식으로 자원에 접근할 것인가 하는 약속(규칙)
 - http 는 80, https 는 443 포트를 주로 사용한다.
 - https 는 http 에 보안을 추가한 것이다.(HTTP Secure)
 
-### userinfo
+### 🎯 userinfo
 - URL 에 사용자정보를 포함해서 인증한다.
 - 거의 사용하지 않는다.
 
-### host
+### 🎯 host
 - 호스트명
 - 도메인명 또는 IP 주소를 직접 사용 가능하다.
 
-### port
+### 🎯 port
 - 접속 포트
 - 일반적으로 생략하며 생략시 http 는 80, https 는 443을 이용한다.
 
-### path
+### 🎯 path
 - 리소스 경로(path), 계층적 구조
 - 예) /login, /my/webtoon
 
-### query
+### 🎯 query
 - key=value 형태이다.
 - ?로 시작하며, &로 추가 가능하다.
 - query parameter, query string 등으로 불린다. 웹서버에 제공하는 파라미터, 문자 형태이다.
 
-### fragment
+### 🎯 fragment
 - html 내부 북마크 등에 사용한다.
 - 서버에 전송하는 정보는 아니다.
 - 같은 페이지에서 이동을 할때 주로 활용된다. 
 
-## 웹 브라우저 요청 흐름
+## 🎯 웹 브라우저 요청 흐름
 
 웹브라우저의 요청 흐름을 알아보겠습니다.
 
@@ -108,8 +108,8 @@ URL(Uniform Resource Identifier)`이라는 단어는 모두 한 번쯤 들어봤
 
 ![response](img/response.png)
 
-## 🌜 마무리
+## 🧩 마무리
 
-가장 중요한 개념 중 하나인 URL과 웹 브라우저의 요청 흐름에 대해서 알아보았습니다. 특히 웹 브라우저 요청 흐름은 요즘 면접에서도 자주 물어보는 질문 중 하나라고 하니 신입 개발자분들은 알고 있으면 큰 도움이 될 것 같습니다. 다음에는 HTTP의 기본에 대해서 다뤄볼 예정이니 많은 관심 부탁드립니다.
+가장 중요한 개념 중 하나인 URL과 웹 브라우저의 요청 흐름에 대해서 알아보았습니다. 특히 웹 브라우저 요청 흐름은 요즘 면접에서도 자주 물어보는 질문 중 하나라고 하니 신입 개발자분들은 알고 있으면 큰 도움이 될 것 같습니다.
 
 <br/>
