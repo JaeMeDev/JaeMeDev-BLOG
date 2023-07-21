@@ -1,6 +1,6 @@
 module.exports = {
   title: `jaeme.dev`,
-  description: `프론트엔드 개발자 이재준의 재미있는 개발스토리`,
+  description: `프론트엔드 개발자 이재준의 블로그`,
   language: `ko`,
   siteUrl: `https://jaeme.dev`,
   ogImage: `/og-image.png`,
@@ -9,7 +9,7 @@ module.exports = {
       repo: `JaeMeDev/JaeMeDev-BLOG`,
     },
   },
-  ga: 'G-SMXEXW9GTS', // Google Analytics Tracking ID
+  ga: 'G-SMXEXW9GTS',
   author: {
     name: `이재준`,
     nickname: 'JaeMeDev',
