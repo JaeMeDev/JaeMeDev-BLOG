@@ -11,7 +11,7 @@ module.exports = {
   },
   ga: 'G-SMXEXW9GTS',
   author: {
-    name: `이재준`,
+    name: `JaeMeDev`,
     nickname: 'JaeMeDev',
     bio: {
       role: `개발자`,
