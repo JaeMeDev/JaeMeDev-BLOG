@@ -1,6 +1,6 @@
 module.exports = {
   title: `jaeme.dev`,
-  description: `프론트엔드 개발자 이재준의 블로그`,
+  description: `프론트엔드 개발자 JaeMeDev`,
   language: `ko`,
   siteUrl: `https://jaeme.dev`,
   ogImage: `/og-image.png`,
